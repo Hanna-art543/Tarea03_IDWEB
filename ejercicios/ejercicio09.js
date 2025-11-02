@@ -1,7 +1,4 @@
-/*El primer párrafo por su id
-– Todos los párrafos por su etiqueta
-– Todos los elementos con una clase común
-– Muestra cada selección en la consola*/
+
 const primerParrafo = document.getElementById("JavaScript");
 const todosParrafos = document.getElementsByTagName("p");
 const elementosClase = document.getElementsByClassName("lenguaje");
